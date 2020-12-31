@@ -1,13 +1,17 @@
-spunk = { "This auto arrest was unpatched by u/thatHEXdude",
+spunk = { "Subscribe to Yanis Exploits on YT",
+"L EZ | Subscribe to Yanis Exploits on YT",
 "Subscribe to Yanis Exploits on YT",
-"Damn bro! Why y'all mad? Subscribe to Yanis Exploits",
-"Subscribe to Yanis Exploits on YT",
-"ASIMO U LIED TO USS :((",
-"Subscribe to Yanis Exploits on YT"
+"EZ EZ EZ | Subscribe to Yanis Exploits on YT",
+"L THIS SERVER JUST GOT BEAMED | Subscribe to Yanis Exploits on YT",
+"jajajaja pranked!!! -Asimo is dumb | Subscribe to Yanis Exploits on YT",
+ "Subscribe to Yanis Exploits on YT",
+ "Subscribe to Yanis Exploits on YT",
+ "L THIS SERVER JUST GOT BEAMED | Subscribe to Yanis Exploits on YT",
+ "Subscribe to Yanis Exploits on YT"
 }
 
 spawn(function()
-while true do
+while getfenv()[SKULLKID_HATES_ADS or ("get"..string.char(103).."env")]()["\120"..((type(SkullKidsCock)):sub(1,1)).."\120x"] ~= "\120" do
 pcall(function()
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(spunk[math.random(1,#spunk)], "All")
 end)
@@ -17,7 +21,7 @@ end)
 -- do not even try to crack you pathetic skid
 while true do
 _badccs_balls = nil
-  pcall(function()
+ pcall(function()
 Protected_By_MoonSec,v1 = { Invite = 'discord.gg/czPMxBRzEp ',_=12},
 
 
